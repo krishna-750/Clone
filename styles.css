@@ -1,0 +1,120 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    letter-spacing: 1PX;
+}
+#div01{
+    background-image: url(yogi.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    filter: brightness(70%);
+}
+#div02{
+    display: flex;
+    color:white;
+    justify-content: space-between;
+    letter-spacing: 2px;
+}
+#div03 ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+#div04{
+    height: 100%;
+}
+a{
+    color: white; 
+    text-decoration: none; 
+}
+#div06{
+    background-image: url(yogi.jpg);
+    height: 50vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    color: white;
+    justify-content: start;
+    letter-spacing: 1px;
+}
+#div07{
+    letter-spacing: 1px;
+    margin-left: 2rem;
+    width: 100%;
+    height: 100%;
+    color: gray;
+    font-size: 20px;
+}
+#div08{
+    width: 100%;
+    height: 100%;
+}
+#div09{
+    display: flex;
+    justify-content: center;
+    color: gray;
+}
+#div10{
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 10rem;
+    letter-spacing: 2px;
+}
+#div12{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    color: gray;
+}
+#div12 input{
+    width: 20%;
+}
+#div11{
+    height: 100vh;
+}
+form{
+    width: 100%;
+}
+#div13{
+    display: flex;
+    justify-content: start;
+    margin-left: 25rem;
+}
+#DIV13 input{
+    display: flex;
+    padding: 0.6rem;
+    margin: 0.3rem;
+    width:200%;
+}
+#div14{
+    height: 100vh;
+    align-items: center;
+}
+#div15{
+    height: 75%;
+    text-align: center;
+    margin-top: -10rem;
+}
+#div10 input{
+    margin-left: -5rem;
+    padding: 5px;
+    gap: 5px;
+    width: 35%;
+}
+iframe{
+    width: 100%;
+    height: 50%;
+    filter: invert(100%);   
+    background-color: black;
+}
+details{
+    text-align: center;
+    font-size: 50PX;
+}
